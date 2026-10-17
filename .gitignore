@@ -1,0 +1,21 @@
+# 编译产物
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE
+.vs/
+.vscode/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# 系统
+.DS_Store
+Thumbs.db
